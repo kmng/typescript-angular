@@ -2,7 +2,7 @@
   "name": "angular-seed",
   "version": "1.0.0",
   "description": "First Testing Angular Project based on npm",
-  "private" :true,
+  "private": true,
   "scripts": {
     "start": "live-server"
   },
@@ -17,8 +17,9 @@
     "@angular/platform-browser": "2.0.0",
     "@angular/platform-browser-dynamic": "2.0.0",
     "@angular/router": "3.0.0",
-
+    "bootstrap": "^3.3.7",
     "core-js": "^2.4.0",
+    "jquery": "^3.2.1",
     "rxjs": "5.0.0-beta.12",
     "systemjs": "0.19.37",
     "zone.js": "0.6.21"
